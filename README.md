@@ -26,6 +26,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sample post 2](https://shmulvad.com/blog/sample2)
+- [New personal website](https://shmulvad.com/blog/new-personal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
