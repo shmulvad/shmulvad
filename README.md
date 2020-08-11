@@ -1,9 +1,9 @@
 ### Hi there, I'm Søren - aka [shmulvad][website]
 
-## I'm a Developer, Teacher and AI Student!
+## I'm a Developer, Teaching Assistant and AI Student!
 - 📚 Studying MSc in computer science at National University of Singapore
 - 🧠 My field of specialization is artificial intelligence
-- 👨‍🏫 When I'm not trying to make myself smarter, I like educating others
+- 👨‍🏫 When I'm not trying to make myself smarter, I try educating others as a TA
 - 👨‍💻 I love to build my own stuff
 
 ### Connect with me:
