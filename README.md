@@ -24,12 +24,18 @@
 
 ---
 
-### 📕 Latest Blog Posts
+<details open>
+ <summary>📕 <b>Latest Blog Posts</b>: </summary>
+
+<br>
+
 <!-- BLOG-POST-LIST:START -->
 - [Why Did I Start This Blog](https://shmulvad.com/blog/why-did-start-this-blog)
 <!-- BLOG-POST-LIST:END -->
 
----
+</details>
+
+<!-- --- -->
 
 <details>
  <summary>🤖 <b>Coding stats</b>: </summary>
@@ -63,10 +69,10 @@ Zsh                      10 mins             ░░░░░░░░░░░�
 
 </details>
 
----
+<!-- --- -->
 
 <details>
- <summary>🤖 <b>My GitHub stats</b>: </summary>
+ <summary>😇 <b>My GitHub stats</b>: </summary>
 
 <br>
 
