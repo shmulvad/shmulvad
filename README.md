@@ -1,6 +1,8 @@
-### Hi there, I'm Søren - aka [shmulvad][website]
+<h2 align="center">
+	👋 Hi, I'm Søren - aka <a href="https://shmulvad.com">shmulvad</a>
+</h2>
 
-## I'm a Developer, Teaching Assistant and AI Student!
+#### I'm a Developer, Teaching Assistant and AI Student!
 - 📚 Studying MSc in computer science at National University of Singapore
 - 🧠 My field of specialization is artificial intelligence
 - 👨‍🏫 When I'm not trying to make myself smarter, I try educating others as a TA
@@ -8,17 +10,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="shmulvad.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="shmulvad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[<img align="left" alt="shmulvad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="shmulvad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[<img align="left" alt="shmulvad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackOverflow]
-
-[<img align="left" alt="shmulvad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+[![Linkedin: shmulvad](https://img.shields.io/badge/shmulvad-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin]
+[![Website: shmulvad.com](https://img.shields.io/badge/shmulvad.com-47CCCC?&style=flat&logo=Google-Chrome&logoColor=white)][website]
+[![Instagram: shmulvad](https://img.shields.io/badge/-@shmulvad-purple?style=flat&logo=Instagram&logoColor=white)][instagram]
+[![StackOverflow: shmulvad](https://img.shields.io/badge/shmulvad-FE7A16?style=flat&logo=stack-overflow&logoColor=white)][stackOverflow]
+[![Twitter: shmulvad](https://img.shields.io/badge/@shmulvad-1ca0f1?style=flat&logo=twitter&logoColor=white)][twitter]
+[![Email: shmulvad](https://img.shields.io/badge/shmulvad-D14836?style=flat&logo=gmail&logoColor=white)][mail]
 
 <br />
 
@@ -102,3 +99,4 @@ thesis                   4 mins              ░░░░░░░░░░░�
 [instagram]: https://instagram.com/shmulvad
 [stackOverflow]: https://stackoverflow.com/users/9248793/shmulvad
 [mail]: mailto:shmulvad@gmail.com
+[github]: https://github.com/shmulvad
