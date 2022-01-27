@@ -76,7 +76,7 @@ finanstilsyn-scraper     2 hrs 32 mins       █░░░░░░░░░░�
 ```
 
 
- Last Updated on 26/01/2022 18:47:17 UTC
+ Last Updated on 27/01/2022 18:46:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
