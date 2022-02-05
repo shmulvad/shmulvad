@@ -2,10 +2,11 @@
 	👋 Hi, I'm Søren - aka <a href="https://shmulvad.com">shmulvad</a>
 </h2>
 
-#### I'm a Developer, Teaching Assistant and AI Student!
-- 📚 Studying MSc in computer science at National University of Singapore
+#### About Me
+- 🤖 Working as a Data Scientist at Singapore Pools
+- 📚 Master of Computing from [NUS], BSc from [@diku-dk]
 - 🧠 My field of specialization is artificial intelligence
-- 👨‍🏫 When I'm not trying to make myself smarter, I try educating others as a TA
+- 👨‍🏫 I enjoy sharing my knowledge with others
 - 👨‍💻 I love to build my own stuff
 
 ### Connect with me:
@@ -38,6 +39,8 @@
  <summary>🤖 <b>Coding stats</b>: </summary>
 
 <br>
+
+NOTE: Doesn't track coding at work or work done in environments such as Jupyter Notebooks.
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -100,4 +103,6 @@ Unknown Project          10 mins             ░░░░░░░░░░░�
 [instagram]: https://instagram.com/shmulvad
 [stackOverflow]: https://stackoverflow.com/users/9248793/shmulvad
 [mail]: mailto:shmulvad@gmail.com
+[@diku-dk]: https://github.com/diku-dk
 [github]: https://github.com/shmulvad
+[NUS]: https://www.nus.edu.sg
