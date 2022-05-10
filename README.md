@@ -75,7 +75,7 @@ company-scrapers         1 min               ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 09/05/2022 18:50:34 UTC
+ Last Updated on 10/05/2022 18:51:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
