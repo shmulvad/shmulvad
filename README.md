@@ -43,7 +43,7 @@
 NOTE: Doesn't track coding at work or work done in environments such as Jupyter Notebooks.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C586%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C587%20hrs%2047%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -60,19 +60,21 @@ NOTE: Doesn't track coding at work or work done in environments such as Jupyter 
 
 ```text
 💬 Programming Languages: 
-Other                    32 mins             █████████████████████████   100.0%
+Other                    1 hr 20 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-Zsh                      32 mins             █████████████████████████   100.0%
+Zsh                      1 hr 20 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-company-scrapers         21 mins             ████████████████░░░░░░░░░   66.13% 
-snastack                 10 mins             ████████░░░░░░░░░░░░░░░░░   33.87%
+company-scrapers         1 hr 16 mins        ████████████████████████░   96.13% 
+hit-locator              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49% 
+overvaagning-sender      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25% 
+faktanet                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 ```
 
 
- Last Updated on 16/10/2022 18:55:58 UTC
+ Last Updated on 17/10/2022 19:13:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
