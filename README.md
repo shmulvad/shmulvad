@@ -43,7 +43,7 @@
 NOTE: Doesn't track coding at work or work done in environments such as Jupyter Notebooks.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C587%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C587%20hrs%2048%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -60,21 +60,22 @@ NOTE: Doesn't track coding at work or work done in environments such as Jupyter 
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 20 mins        █████████████████████████   100.0%
+Other                    1 hr 13 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-Zsh                      1 hr 20 mins        █████████████████████████   100.0%
+Zsh                      1 hr 13 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-company-scrapers         1 hr 16 mins        ████████████████████████░   96.13% 
-hit-locator              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49% 
-overvaagning-sender      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25% 
-faktanet                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+company-scrapers         1 hr 8 mins         ███████████████████████░░   94.04% 
+hit-locator              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.82% 
+overvaagning-admin       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4% 
+django-wedding-website   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33% 
+overvaagning-sender      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
 
 ```
 
 
- Last Updated on 22/10/2022 18:56:09 UTC
+ Last Updated on 23/10/2022 18:56:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
