@@ -80,7 +80,7 @@ company-scrapers         0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 31/12/2022 18:40:29 UTC
+ Last Updated on 01/01/2023 18:40:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
