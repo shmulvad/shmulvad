@@ -43,7 +43,7 @@
 NOTE: Doesn't track coding at work or work done in environments such as Jupyter Notebooks.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C731%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C732%20hrs%208%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -78,7 +78,7 @@ Terminal                 12 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 06/02/2023 18:42:33 UTC
+ Last Updated on 07/02/2023 18:42:44 UTC
 <!--END_SECTION:waka-->
 
 </details>
