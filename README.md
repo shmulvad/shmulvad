@@ -43,7 +43,7 @@
 NOTE: Doesn't track coding at work or work done in environments such as Jupyter Notebooks.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C940%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C942%20hrs%2029%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -59,17 +59,25 @@ NOTE: Doesn't track coding at work or work done in environments such as Jupyter 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 26 mins        ██████████████████░░░░░░░   72.73 % 
+Other                    26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+SQL                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 33 mins        ███████████████████░░░░░░   77.85 % 
+Zsh                      26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hit-locator              1 hr 15 mins        ████████████████░░░░░░░░░   63.43 % 
+overvaagning-admin       42 mins             █████████░░░░░░░░░░░░░░░░   35.15 % 
+otp-database-migrater    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 
 
- Last Updated on 02/06/2023 18:40:28 UTC
+ Last Updated on 03/06/2023 18:41:05 UTC
 <!--END_SECTION:waka-->
 
 </details>
