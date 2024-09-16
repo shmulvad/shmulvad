@@ -3,9 +3,8 @@
 </h2>
 
 #### About Me
-- 🤖 Working as a Data Scientist at Singapore Pools
+- 🤖 I am a Senior Data Scientist
 - 📚 Master of Computing from [NUS], BSc from [@diku-dk]
-- 🧠 My field of specialization is artificial intelligence
 - 👨‍🏫 I enjoy sharing my knowledge with others
 - 👨‍💻 I love to build my own stuff
 
