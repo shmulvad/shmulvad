@@ -3,10 +3,10 @@
 </h2>
 
 #### About Me
-- 🤖 I am a Senior Data Scientist
+- 👨‍💻 I am a software developer at Bunker Holding
+- 🤖 I have a background in data science and AI as well
 - 📚 Master of Computing from [NUS], BSc from [@diku-dk]
 - 👨‍🏫 I enjoy sharing my knowledge with others
-- 👨‍💻 I love to build my own stuff
 
 ### Connect with me:
 
@@ -14,7 +14,6 @@
 [![Website: shmulvad.com](https://img.shields.io/badge/shmulvad.com-47CCCC?&style=flat&logo=Google-Chrome&logoColor=white)][website]
 [![Instagram: shmulvad](https://img.shields.io/badge/-@shmulvad-purple?style=flat&logo=Instagram&logoColor=white)][instagram]
 [![StackOverflow: shmulvad](https://img.shields.io/badge/shmulvad-FE7A16?style=flat&logo=stack-overflow&logoColor=white)][stackOverflow]
-[![Twitter: shmulvad](https://img.shields.io/badge/@shmulvad-1ca0f1?style=flat&logo=twitter&logoColor=white)][twitter]
 [![Email: shmulvad](https://img.shields.io/badge/shmulvad-D14836?style=flat&logo=gmail&logoColor=white)][mail]
 
 <br />
@@ -39,7 +38,7 @@
 
 <br>
 
-NOTE: Doesn't track coding at work or work done in environments such as Jupyter Notebooks.
+NOTE: Doesn't track coding at work.
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C974%20hrs%2026%20mins-blue)
@@ -97,7 +96,6 @@ Unknown Project          19 mins             █░░░░░░░░░░�
 
 
 [website]: https://shmulvad.com
-[twitter]: https://twitter.com/shmulvad
 [linkedin]: https://linkedin.com/in/shmulvad
 [instagram]: https://instagram.com/shmulvad
 [stackOverflow]: https://stackoverflow.com/users/9248793/shmulvad
