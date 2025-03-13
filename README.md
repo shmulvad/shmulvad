@@ -41,7 +41,7 @@
 NOTE: Doesn't track coding at work.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C087%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C087%20hrs%2043%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -74,7 +74,7 @@ Terminal                 0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 12/03/2025 18:52:51 UTC
+ Last Updated on 13/03/2025 18:52:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
