@@ -41,7 +41,7 @@
 NOTE: Doesn't track coding at work.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C132%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C133%20hrs%201%20min-blue)
 
 **I'm an Early 🐤** 
 
@@ -57,17 +57,20 @@ NOTE: Doesn't track coding at work.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   14 mins             ████████████████░░░░░░░░░   65.64 % 
+Other                    7 mins              ████████░░░░░░░░░░░░░░░░░   32.90 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             █████████████████░░░░░░░░   67.10 % 
+Zsh                      7 mins              ████████░░░░░░░░░░░░░░░░░   32.90 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+company-scrapers         21 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/08/2025 18:49:19 UTC
+ Last Updated on 24/08/2025 18:51:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
