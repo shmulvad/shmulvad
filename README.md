@@ -41,33 +41,8 @@
 NOTE: Doesn't track coding at work.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C134%20hrs%2012%20mins-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2236 commits        ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
-🌆 Daytime                3328 commits        █████████░░░░░░░░░░░░░░░░   35.40 % 
-🌃 Evening                2725 commits        ███████░░░░░░░░░░░░░░░░░░   28.98 % 
-🌙 Night                  1113 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 14/10/2025 18:52:14 UTC
+ Last Updated on 15/10/2025 18:53:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
