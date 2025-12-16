@@ -57,19 +57,17 @@ NOTE: Doesn't track coding at work.
 
 ```text
 💬 Programming Languages: 
-Python                   10 mins             ██████████████░░░░░░░░░░░   54.80 % 
-Other                    8 mins              ███████████░░░░░░░░░░░░░░   45.20 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             ██████████████░░░░░░░░░░░   54.80 % 
-Zsh                      8 mins              ███████████░░░░░░░░░░░░░░   45.20 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-company-scrapers         19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/12/2025 19:00:24 UTC
+ Last Updated on 16/12/2025 18:59:56 UTC
 <!--END_SECTION:waka-->
 
 </details>
