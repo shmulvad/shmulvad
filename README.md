@@ -41,7 +41,7 @@
 NOTE: Doesn't track coding at work.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C197%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C198%20hrs%209%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -57,22 +57,23 @@ NOTE: Doesn't track coding at work.
 
 ```text
 💬 Programming Languages: 
-HTML                     24 mins             ████████████████░░░░░░░░░   63.65 % 
-Other                    5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Python                   22 mins             ██████████░░░░░░░░░░░░░░░   39.91 % 
+HTML                     18 mins             ████████░░░░░░░░░░░░░░░░░   33.09 % 
+Other                    8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████░░░░   85.74 % 
-Zsh                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+VS Code                  46 mins             █████████████████████░░░░   83.88 % 
+Zsh                      8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
 
 🐱‍💻 Projects: 
-km24-core                39 mins             █████████████████████████   100.00 % 
+km24-core                41 mins             ███████████████████░░░░░░   75.86 % 
+company-scrapers         13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
 ```
 
 
- Last Updated on 27/02/2026 19:13:59 UTC
+ Last Updated on 28/02/2026 18:59:19 UTC
 <!--END_SECTION:waka-->
 
 </details>
