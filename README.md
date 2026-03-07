@@ -57,24 +57,20 @@ NOTE: Doesn't track coding at work.
 
 ```text
 💬 Programming Languages: 
-Python                   20 mins             ████████████████░░░░░░░░░   62.49 % 
-Other                    7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-CSV                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+CSV                      5 mins              ████████████████░░░░░░░░░   63.11 % 
+Other                    3 mins              █████████░░░░░░░░░░░░░░░░   36.89 % 
 
 🔥 Editors: 
-VS Code                  20 mins             ████████████████░░░░░░░░░   62.49 % 
-Zsh                      7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-Sublime Text             5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Sublime Text             5 mins              ████████████████░░░░░░░░░   63.11 % 
+Zsh                      3 mins              █████████░░░░░░░░░░░░░░░░   36.89 % 
 
 🐱‍💻 Projects: 
-company-scrapers         13 mins             ██████████░░░░░░░░░░░░░░░   40.33 % 
-km24-core                11 mins             █████████░░░░░░░░░░░░░░░░   34.08 % 
-Unknown Project          5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Terminal                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Unknown Project          5 mins              ████████████████░░░░░░░░░   63.11 % 
+Terminal                 3 mins              █████████░░░░░░░░░░░░░░░░   36.89 % 
 ```
 
 
- Last Updated on 06/03/2026 19:14:19 UTC
+ Last Updated on 07/03/2026 19:00:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
