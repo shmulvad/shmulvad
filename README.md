@@ -41,7 +41,7 @@
 NOTE: Doesn't track coding at work.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C204%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C204%20hrs%2057%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -57,27 +57,27 @@ NOTE: Doesn't track coding at work.
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   41.02 % 
-Python                   1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   31.33 % 
-Markdown                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-JSON                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-CSV                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Other                    2 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   40.60 % 
+Python                   2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   29.67 % 
+Markdown                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+JSON                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+CSV                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 32 mins       ██████████████░░░░░░░░░░░   55.94 % 
-Zsh                      2 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   39.28 % 
-Sublime Text             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+VS Code                  3 hrs 51 mins       ██████████████░░░░░░░░░░░   56.58 % 
+Zsh                      2 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   38.98 % 
+Sublime Text             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 🐱‍💻 Projects: 
-km24-core                3 hrs 57 mins       ████████████████░░░░░░░░░   62.46 % 
-km24-core2               1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-Terminal                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Unknown Project          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-mediawatch               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+km24-core                4 hrs 17 mins       ████████████████░░░░░░░░░   63.09 % 
+km24-core2               1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+Terminal                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Unknown Project          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+mediawatch               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 ```
 
 
- Last Updated on 10/03/2026 19:27:34 UTC
+ Last Updated on 11/03/2026 19:29:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
