@@ -41,15 +41,15 @@
 NOTE: Doesn't track coding at work.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C207%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C208%20hrs%2057%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3237 commits        █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-🌆 Daytime                4951 commits        ████████░░░░░░░░░░░░░░░░░   32.44 % 
-🌃 Evening                4849 commits        ████████░░░░░░░░░░░░░░░░░   31.78 % 
-🌙 Night                  2223 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+🌞 Morning                3357 commits        █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+🌆 Daytime                5140 commits        ████████░░░░░░░░░░░░░░░░░   32.29 % 
+🌃 Evening                5082 commits        ████████░░░░░░░░░░░░░░░░░   31.93 % 
+🌙 Night                  2337 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
 ```
 
 
@@ -57,24 +57,25 @@ NOTE: Doesn't track coding at work.
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 17 mins        ███████████░░░░░░░░░░░░░░   43.79 % 
-HTML                     36 mins             █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-Other                    31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-TypeScript               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Python                   2 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   35.62 % 
+TypeScript               1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Other                    50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+HTML                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 23 mins       ████████████████████░░░░░   81.15 % 
-Zsh                      30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Sublime Text             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+VS Code                  4 hrs 42 mins       █████████████████████░░░░   82.35 % 
+Zsh                      49 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Sublime Text             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🐱‍💻 Projects: 
-km24-core                2 hrs 50 mins       ████████████████████████░   96.24 % 
-Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+km24-core                4 hrs 51 mins       █████████████████████░░░░   84.98 % 
+Unknown Project          26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+company-scrapers         24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 ```
 
 
- Last Updated on 18/03/2026 19:33:46 UTC
+ Last Updated on 19/03/2026 19:33:06 UTC
 <!--END_SECTION:waka-->
 
 </details>
