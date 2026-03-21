@@ -41,7 +41,7 @@
 NOTE: Doesn't track coding at work.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C210%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C210%20hrs%2058%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -57,25 +57,25 @@ NOTE: Doesn't track coding at work.
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   35.62 % 
-TypeScript               1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Other                    50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-HTML                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Python                   2 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   34.61 % 
+TypeScript               1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Other                    52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Markdown                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+HTML                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 42 mins       █████████████████████░░░░   82.35 % 
-Zsh                      49 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Sublime Text             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+VS Code                  4 hrs 51 mins       █████████████████████░░░░   82.48 % 
+Zsh                      51 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Sublime Text             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🐱‍💻 Projects: 
-km24-core                4 hrs 51 mins       █████████████████████░░░░   84.98 % 
-Unknown Project          26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-company-scrapers         24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+km24-core                5 hrs 1 min         █████████████████████░░░░   85.40 % 
+Unknown Project          26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+company-scrapers         24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
 ```
 
 
- Last Updated on 20/03/2026 19:25:25 UTC
+ Last Updated on 21/03/2026 19:04:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
