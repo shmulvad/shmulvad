@@ -48,7 +48,7 @@ NOTE: Doesn't track coding at work.
 ```text
 🌞 Morning                3160 commits        █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
 🌆 Daytime                4744 commits        ████████░░░░░░░░░░░░░░░░░   32.65 % 
-🌃 Evening                4555 commits        ████████░░░░░░░░░░░░░░░░░   31.35 % 
+🌃 Evening                4557 commits        ████████░░░░░░░░░░░░░░░░░   31.36 % 
 🌙 Night                  2070 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
 ```
 
@@ -57,27 +57,27 @@ NOTE: Doesn't track coding at work.
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   39.19 % 
-Other                    1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-Markdown                 1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-TypeScript               54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Python                   2 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   41.73 % 
+Other                    1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
+Markdown                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+TypeScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 28 mins       ███████████████████░░░░░░   76.95 % 
-Zsh                      1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-Sublime Text             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+VS Code                  5 hrs 16 mins       ███████████████████░░░░░░   74.18 % 
+Zsh                      1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+Sublime Text             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🐱‍💻 Projects: 
-km24-core                7 hrs 7 mins        █████████████████████░░░░   84.60 % 
-Unknown Project          32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-company-scrapers         24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-km24-core2               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-search_string            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+km24-core                5 hrs 50 mins       █████████████████████░░░░   82.02 % 
+company-scrapers         24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Unknown Project          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+search_string            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+km24-core2               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 ```
 
 
- Last Updated on 24/03/2026 19:38:31 UTC
+ Last Updated on 25/03/2026 19:30:16 UTC
 <!--END_SECTION:waka-->
 
 </details>
