@@ -43,8 +43,36 @@ NOTE: Doesn't track coding at work.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C218%20hrs%2048%20mins-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 03/04/2026 19:29:14 UTC
+```text
+🌞 Morning                3770 commits        █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+🌆 Daytime                5724 commits        ████████░░░░░░░░░░░░░░░░░   31.65 % 
+🌃 Evening                5881 commits        ████████░░░░░░░░░░░░░░░░░   32.52 % 
+🌙 Night                  2710 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   1 hr 13 mins        █████████████████░░░░░░░░   68.05 % 
+Other                    17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Bash                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+
+🔥 Editors: 
+VS Code                  1 hr 31 mins        █████████████████████░░░░   83.90 % 
+Zsh                      17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+
+🐱‍💻 Projects: 
+km24-core                1 hr 48 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 04/04/2026 19:12:51 UTC
 <!--END_SECTION:waka-->
 
 </details>
