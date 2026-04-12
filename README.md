@@ -41,7 +41,7 @@
 NOTE: Doesn't track coding at work.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C220%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C222%20hrs%2045%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -57,25 +57,26 @@ NOTE: Doesn't track coding at work.
 
 ```text
 💬 Programming Languages: 
-Other                    57 mins             ████████████░░░░░░░░░░░░░   46.87 % 
-Python                   26 mins             █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-TypeScript               16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Markdown                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-HTML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Other                    2 hrs 3 mins        █████████████░░░░░░░░░░░░   52.23 % 
+Python                   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Markdown                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+TypeScript               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 
 🔥 Editors: 
-VS Code                  1 hr 38 mins        ████████████████████░░░░░   79.67 % 
-Zsh                      25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+VS Code                  2 hrs 53 mins       ██████████████████░░░░░░░   73.15 % 
+Zsh                      1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   26.85 % 
 
 🐱‍💻 Projects: 
-km24-core                1 hr 59 mins        ████████████████████████░   96.49 % 
-km24-core2               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-company-scrapers         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+km24-core                3 hrs 41 mins       ███████████████████████░░   93.27 % 
+Terminal                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+km24-core2               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+company-scrapers         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 memory                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 11/04/2026 19:14:46 UTC
+ Last Updated on 12/04/2026 19:27:13 UTC
 <!--END_SECTION:waka-->
 
 </details>
