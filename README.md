@@ -41,8 +41,42 @@
 NOTE: Doesn't track coding at work.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C241%20hrs%2023%20mins-blue?style=flat)
 
- Last Updated on 17/05/2026 19:51:49 UTC
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3720 commits        ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+🌆 Daytime                5425 commits        ████████░░░░░░░░░░░░░░░░░   32.24 % 
+🌃 Evening                5237 commits        ████████░░░░░░░░░░░░░░░░░   31.12 % 
+🌙 Night                  2444 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   1 hr 56 mins        ██████████░░░░░░░░░░░░░░░   38.68 % 
+Other                    1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+Markdown                 51 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+TypeScript               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Gettext Catalog          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 49 mins       ███████████████████░░░░░░   76.57 % 
+Zsh                      42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Unknown Editor           25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+Sublime Text             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+
+🐱‍💻 Projects: 
+km24-core                4 hrs 41 mins       ███████████████████████░░   93.63 % 
+Unknown Project          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+```
+
+
+ Last Updated on 18/05/2026 20:23:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
