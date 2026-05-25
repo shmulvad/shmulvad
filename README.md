@@ -46,10 +46,10 @@ NOTE: Doesn't track coding at work.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3852 commits        █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-🌆 Daytime                5666 commits        ████████░░░░░░░░░░░░░░░░░   31.81 % 
-🌃 Evening                5628 commits        ████████░░░░░░░░░░░░░░░░░   31.60 % 
-🌙 Night                  2666 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+🌞 Morning                3909 commits        █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+🌆 Daytime                5777 commits        ████████░░░░░░░░░░░░░░░░░   31.60 % 
+🌃 Evening                5821 commits        ████████░░░░░░░░░░░░░░░░░   31.84 % 
+🌙 Night                  2777 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
 ```
 
 
@@ -57,27 +57,27 @@ NOTE: Doesn't track coding at work.
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   30.19 % 
-TypeScript               49 mins             ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-Markdown                 49 mins             ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Python                   1 hr                ██████████░░░░░░░░░░░░░░░   38.68 % 
+TypeScript               33 mins             █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+Markdown                 21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+JSON                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+HTML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 45 mins       ███████████████████░░░░░░   76.47 % 
-Claude Code              18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Zsh                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-Sublime Text             14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+VS Code                  1 hr 56 mins        ███████████████████░░░░░░   74.85 % 
+Claude Code              15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Sublime Text             14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Zsh                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 
 🐱‍💻 Projects: 
-km24-core                3 hrs 1 min         █████████████████████░░░░   83.68 % 
-Unknown Project          24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-mic                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Terminal                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+km24-core                2 hrs 8 mins        █████████████████████░░░░   82.80 % 
+Unknown Project          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+mic                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Terminal                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 ```
 
 
- Last Updated on 24/05/2026 19:52:17 UTC
+ Last Updated on 25/05/2026 20:16:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
