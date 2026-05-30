@@ -57,23 +57,23 @@ NOTE: Doesn't track coding at work.
 
 ```text
 💬 Programming Languages: 
-Python                   59 mins             ██████████████░░░░░░░░░░░   56.22 % 
-Markdown                 20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-HTML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-TypeScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Python                   23 mins             █████████████░░░░░░░░░░░░   53.88 % 
+Markdown                 11 mins             ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+TypeScript               6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🔥 Editors: 
-VS Code                  1 hr 30 mins        █████████████████████░░░░   85.98 % 
-Claude Code              14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+VS Code                  36 mins             █████████████████████░░░░   83.16 % 
+Claude Code              7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
 
 🐱‍💻 Projects: 
-km24-core                1 hr 39 mins        ███████████████████████░░   93.84 % 
-mic                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+km24-core                37 mins             █████████████████████░░░░   85.04 % 
+mic                      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
 ```
 
 
- Last Updated on 29/05/2026 21:06:43 UTC
+ Last Updated on 30/05/2026 19:56:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
