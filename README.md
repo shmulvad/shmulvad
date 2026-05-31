@@ -57,23 +57,17 @@ NOTE: Doesn't track coding at work.
 
 ```text
 💬 Programming Languages: 
-Python                   23 mins             █████████████░░░░░░░░░░░░   53.88 % 
-Markdown                 11 mins             ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
-TypeScript               6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  36 mins             █████████████████████░░░░   83.16 % 
-Claude Code              7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-km24-core                37 mins             █████████████████████░░░░   85.04 % 
-mic                      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/05/2026 19:56:12 UTC
+ Last Updated on 31/05/2026 19:56:20 UTC
 <!--END_SECTION:waka-->
 
 </details>
