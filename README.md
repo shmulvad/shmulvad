@@ -41,15 +41,15 @@
 NOTE: Doesn't track coding at work.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C243%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C244%20hrs%2026%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4026 commits        █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-🌆 Daytime                6002 commits        ████████░░░░░░░░░░░░░░░░░   31.21 % 
-🌃 Evening                6207 commits        ████████░░░░░░░░░░░░░░░░░   32.28 % 
-🌙 Night                  2993 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+🌞 Morning                4084 commits        █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+🌆 Daytime                6114 commits        ████████░░░░░░░░░░░░░░░░░   31.04 % 
+🌃 Evening                6399 commits        ████████░░░░░░░░░░░░░░░░░   32.49 % 
+🌙 Night                  3100 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
 ```
 
 
@@ -57,17 +57,21 @@ NOTE: Doesn't track coding at work.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+XML                      16 mins             ██████████████░░░░░░░░░░░   57.65 % 
+Python                   11 mins             ███████████░░░░░░░░░░░░░░   42.35 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  20 mins             ██████████████████░░░░░░░   73.05 % 
+Claude Code              7 mins              ███████░░░░░░░░░░░░░░░░░░   26.95 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+files                    17 mins             ████████████████░░░░░░░░░   63.87 % 
+hey                      5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Unknown Project          4 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
 ```
 
 
- Last Updated on 03/06/2026 21:39:48 UTC
+ Last Updated on 04/06/2026 20:37:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
