@@ -41,15 +41,15 @@
 NOTE: Doesn't track coding at work.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C244%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C245%20hrs%2014%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4011 commits        █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-🌆 Daytime                5986 commits        ████████░░░░░░░░░░░░░░░░░   31.18 % 
-🌃 Evening                6207 commits        ████████░░░░░░░░░░░░░░░░░   32.33 % 
-🌙 Night                  2993 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+🌞 Morning                4027 commits        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+🌆 Daytime                6003 commits        ████████░░░░░░░░░░░░░░░░░   31.20 % 
+🌃 Evening                6213 commits        ████████░░░░░░░░░░░░░░░░░   32.29 % 
+🌙 Night                  2999 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
 ```
 
 
@@ -57,17 +57,24 @@ NOTE: Doesn't track coding at work.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     14 mins             ████████░░░░░░░░░░░░░░░░░   30.46 % 
+Python                   9 mins              █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Markdown                 9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+INI                      8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+TypeScript               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  38 mins             ████████████████████░░░░░   81.21 % 
+Sublime Text             8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+km24-core                39 mins             ████████████████████░░░░░   81.34 % 
+Unknown Project          8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
 ```
 
 
- Last Updated on 13/06/2026 20:10:10 UTC
+ Last Updated on 14/06/2026 20:11:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
