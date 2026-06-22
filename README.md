@@ -41,15 +41,15 @@
 NOTE: Doesn't track coding at work.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C245%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C247%20hrs%208%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4364 commits        █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-🌆 Daytime                6661 commits        ████████░░░░░░░░░░░░░░░░░   30.23 % 
-🌃 Evening                7372 commits        ████████░░░░░░░░░░░░░░░░░   33.46 % 
-🌙 Night                  3637 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+🌞 Morning                4372 commits        █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+🌆 Daytime                6665 commits        ████████░░░░░░░░░░░░░░░░░   30.23 % 
+🌃 Evening                7372 commits        ████████░░░░░░░░░░░░░░░░░   33.44 % 
+🌙 Night                  3637 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
 ```
 
 
@@ -57,17 +57,24 @@ NOTE: Doesn't track coding at work.
 
 ```text
 💬 Programming Languages: 
-CSV                      3 mins              █████████████████████████   100.00 % 
+Python                   52 mins             ███████████░░░░░░░░░░░░░░   45.84 % 
+Markdown                 43 mins             █████████░░░░░░░░░░░░░░░░   37.82 % 
+CSV                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 🔥 Editors: 
-Sublime Text             3 mins              █████████████████████████   100.00 % 
+VS Code                  57 mins             █████████████░░░░░░░░░░░░   50.27 % 
+Claude Code              52 mins             ████████████░░░░░░░░░░░░░   46.34 % 
+Sublime Text             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 mins              █████████████████████████   100.00 % 
+km24-core                1 hr 50 mins        ████████████████████████░   96.62 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 ```
 
 
- Last Updated on 21/06/2026 20:22:04 UTC
+ Last Updated on 22/06/2026 21:28:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
