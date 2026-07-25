@@ -41,8 +41,35 @@
 NOTE: Doesn't track coding at work.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C254%20hrs%2012%20mins-blue?style=flat)
 
- Last Updated on 24/07/2026 20:03:33 UTC
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                4705 commits        █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+🌆 Daytime                7196 commits        ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+🌃 Evening                8102 commits        ████████░░░░░░░░░░░░░░░░░   33.74 % 
+🌙 Night                  4008 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   1 hr 10 mins        ███████████████████████░░   91.14 % 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+
+🔥 Editors: 
+Claude Code              56 mins             ██████████████████░░░░░░░   72.86 % 
+VS Code                  21 mins             ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+
+🐱‍💻 Projects: 
+km24-core                1 hr 17 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 25/07/2026 19:50:44 UTC
 <!--END_SECTION:waka-->
 
 </details>
