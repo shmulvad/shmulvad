@@ -41,7 +41,7 @@
 NOTE: Doesn't track coding at work.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C254%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C254%20hrs%2058%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -57,19 +57,22 @@ NOTE: Doesn't track coding at work.
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 10 mins        ███████████████████████░░   91.14 % 
-Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Python                   1 hr 28 mins        ██████████████████░░░░░░░   71.67 % 
+YAML                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+TOML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-Claude Code              56 mins             ██████████████████░░░░░░░   72.86 % 
-VS Code                  21 mins             ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+Claude Code              1 hr 39 mins        ████████████████████░░░░░   80.17 % 
+VS Code                  24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
 
 🐱‍💻 Projects: 
-km24-core                1 hr 17 mins        █████████████████████████   100.00 % 
+km24-core                2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/07/2026 19:50:44 UTC
+ Last Updated on 26/07/2026 19:50:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
