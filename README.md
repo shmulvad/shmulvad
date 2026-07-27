@@ -41,15 +41,17 @@
 NOTE: Doesn't track coding at work.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C254%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C715%20hrs%2015%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2019%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4705 commits        █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-🌆 Daytime                7196 commits        ███████░░░░░░░░░░░░░░░░░░   29.97 % 
-🌃 Evening                8102 commits        ████████░░░░░░░░░░░░░░░░░   33.74 % 
-🌙 Night                  4008 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+🌞 Morning                4704 commits        █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+🌆 Daytime                7197 commits        ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+🌃 Evening                8103 commits        ████████░░░░░░░░░░░░░░░░░   33.74 % 
+🌙 Night                  4009 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
 ```
 
 
@@ -71,8 +73,31 @@ VS Code                  24 mins             █████░░░░░░�
 km24-core                2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 26/07/2026 19:50:27 UTC
+```text
+⏱ AI Coding Time: 1 hr 53 mins (91.6%)
+
+✍️ 744 lines written by AI, 8 lines written by hand (98.94% AI-written)
+
+🔤 17,693,267 Input Tokens, 141,926 Output Tokens
+
+💵 $91.93 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 12 AI Prompts
+
+Opus                     773 lines           █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.94% of written lines came from AI
+📝 Concise Prompter — average 330 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 15.43% of changed lines were hand-edited
+```
+
+
+ Last Updated on 27/07/2026 20:14:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
