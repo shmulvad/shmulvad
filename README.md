@@ -41,8 +41,63 @@
 NOTE: Doesn't track coding at work.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C715%20hrs%2015%20mins-blue?style=flat)
 
- Last Updated on 28/07/2026 20:09:52 UTC
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2019%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3130 commits        ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+🌆 Daytime                4169 commits        █████████░░░░░░░░░░░░░░░░   36.61 % 
+🌃 Evening                2916 commits        ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+🌙 Night                  1174 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   1 hr 28 mins        ██████████████████░░░░░░░   71.67 % 
+YAML                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+TOML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+
+🔥 Editors: 
+Claude Code              1 hr 39 mins        ████████████████████░░░░░   80.17 % 
+VS Code                  24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+
+🐱‍💻 Projects: 
+km24-core                2 hrs 4 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 53 mins (91.6%)
+
+✍️ 744 lines written by AI, 8 lines written by hand (98.94% AI-written)
+
+🔤 17,693,267 Input Tokens, 141,926 Output Tokens
+
+💵 $91.93 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 12 AI Prompts
+
+Opus                     773 lines           █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.94% of written lines came from AI
+📝 Concise Prompter — average 330 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 15.43% of changed lines were hand-edited
+```
+
+
+ Last Updated on 29/07/2026 19:57:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
