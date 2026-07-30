@@ -41,9 +41,9 @@
 NOTE: Doesn't track coding at work.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C715%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C717%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%207%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -59,45 +59,45 @@ NOTE: Doesn't track coding at work.
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 28 mins        ██████████████████░░░░░░░   71.67 % 
-YAML                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-TOML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Python                   2 hrs 7 mins        ██████████████░░░░░░░░░░░   54.16 % 
+CSS                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+TOML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+YAML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 
 🔥 Editors: 
-Claude Code              1 hr 39 mins        ████████████████████░░░░░   80.17 % 
-VS Code                  24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Claude Code              3 hrs 17 mins       █████████████████████░░░░   84.09 % 
+VS Code                  37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
 
 🐱‍💻 Projects: 
-km24-core                2 hrs 4 mins        █████████████████████████   100.00 % 
+km24-core                3 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 53 mins (91.6%)
+⏱ AI Coding Time: 3 hrs 41 mins (94.45%)
 
-✍️ 744 lines written by AI, 8 lines written by hand (98.94% AI-written)
+✍️ 1,285 lines written by AI, 8 lines written by hand (99.38% AI-written)
 
-🔤 17,693,267 Input Tokens, 141,926 Output Tokens
+🔤 48,196,170 Input Tokens, 278,459 Output Tokens
 
-💵 $91.93 Estimated AI Cost This Week
+💵 $247.69 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 12 AI Prompts
+🧠 7 AI Sessions, 21 AI Prompts
 
-Opus                     773 lines           █████████████████████████   100.00 % 
+Opus                     1,323 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.94% of written lines came from AI
-📝 Concise Prompter — average 330 characters per prompt
+🤖 AI-Driven — 99.38% of written lines came from AI
+📝 Concise Prompter — average 248 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 15.43% of changed lines were hand-edited
+🚀 High AI Trust — 9.69% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/07/2026 19:57:09 UTC
+ Last Updated on 30/07/2026 20:07:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
