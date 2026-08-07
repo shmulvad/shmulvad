@@ -41,8 +41,61 @@
 NOTE: Doesn't track coding at work.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C718%20hrs%2027%20mins-blue?style=flat)
 
- Last Updated on 07/08/2026 00:29:41 UTC
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2026%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3569 commits        ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+🌆 Daytime                4941 commits        █████████░░░░░░░░░░░░░░░░   34.01 % 
+🌃 Evening                4170 commits        ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+🌙 Night                  1850 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   22 mins             ████████████████████████░   96.32 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+
+🔥 Editors: 
+Claude Code              15 mins             █████████████████░░░░░░░░   66.62 % 
+VS Code                  7 mins              ████████░░░░░░░░░░░░░░░░░   33.38 % 
+
+🐱‍💻 Projects: 
+km24-core                23 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 23 mins (100.0%)
+
+✍️ 262 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 3,636,703 Input Tokens, 37,385 Output Tokens
+
+💵 $19.04 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 4 AI Prompts
+
+Opus                     272 lines           █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 867 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 07/08/2026 19:36:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
