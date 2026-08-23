@@ -59,46 +59,45 @@ NOTE: Doesn't track coding at work.
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 29 mins       ███████████████░░░░░░░░░░   61.34 % 
-Markdown                 44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-TypeScript               31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Bash                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Python                   1 hr 59 mins        █████████████████░░░░░░░░   69.16 % 
+Markdown                 29 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+TypeScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 22 mins       █████████████████████░░░░   83.27 % 
-VS Code                  40 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Claude Code              2 hrs 40 mins       ███████████████████████░░   92.50 % 
+VS Code                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 
 🐱‍💻 Projects: 
-km24-core                3 hrs 45 mins       ███████████████████████░░   92.62 % 
-cal                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+km24-core                2 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 27 mins (85.37%)
+⏱ AI Coding Time: 2 hrs 43 mins (94.28%)
 
-✍️ 4,532 lines written by AI, 423 lines written by hand (91.46% AI-written)
+✍️ 3,669 lines written by AI, 1 lines written by hand (99.97% AI-written)
 
-🔤 76,628,317 Input Tokens, 468,106 Output Tokens
+🔤 64,797,956 Input Tokens, 375,735 Output Tokens
 
-💵 $534.50 Estimated AI Cost This Week
+💵 $486.13 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 21 AI Prompts
+🧠 5 AI Sessions, 14 AI Prompts
 
-Opus                     8,055 lines         █████████████████████████   100.00 % 
+Opus                     7,187 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.46% of written lines came from AI
-📄 Detailed Prompter — average 1,416 characters per prompt
+🤖 AI-Driven — 99.97% of written lines came from AI
+📚 Verbose Prompter — average 1,686 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 8.51% of changed lines were hand-edited
+🚀 High AI Trust — 0.11% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/08/2026 19:03:35 UTC
+ Last Updated on 23/08/2026 19:02:02 UTC
 <!--END_SECTION:waka-->
 
 </details>
