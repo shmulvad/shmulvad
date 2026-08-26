@@ -41,60 +41,12 @@
 NOTE: Doesn't track coding at work.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C725%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C726%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%206%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3291 commits        ███████░░░░░░░░░░░░░░░░░░   26.94 % 
-🌆 Daytime                4431 commits        █████████░░░░░░░░░░░░░░░░   36.27 % 
-🌃 Evening                3185 commits        ███████░░░░░░░░░░░░░░░░░░   26.07 % 
-🌙 Night                  1309 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2011%20mins-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   49 mins             ████████████████░░░░░░░░░   62.78 % 
-Markdown                 22 mins             ███████░░░░░░░░░░░░░░░░░░   28.44 % 
-Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-
-🔥 Editors: 
-Claude Code              58 mins             ███████████████████░░░░░░   74.12 % 
-VS Code                  20 mins             ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-
-🐱‍💻 Projects: 
-km24-core                1 hr 18 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 8 mins (87.05%)
-
-✍️ 407 lines written by AI, 1 lines written by hand (99.75% AI-written)
-
-🔤 720,110 Input Tokens, 177,654 Output Tokens
-
-💵 $165.35 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 8 AI Prompts
-
-Opus                     4,054 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.75% of written lines came from AI
-📄 Detailed Prompter — average 595 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.73% of changed lines were hand-edited
-```
-
-
- Last Updated on 25/08/2026 19:14:49 UTC
+ Last Updated on 26/08/2026 20:46:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
