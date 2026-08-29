@@ -41,17 +41,17 @@
 NOTE: Doesn't track coding at work.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C735%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C739%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-48%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2029%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3556 commits        ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
-🌆 Daytime                4914 commits        █████████░░░░░░░░░░░░░░░░   34.48 % 
-🌃 Evening                4017 commits        ███████░░░░░░░░░░░░░░░░░░   28.18 % 
-🌙 Night                  1766 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+🌞 Morning                3512 commits        ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
+🌆 Daytime                4767 commits        █████████░░░░░░░░░░░░░░░░   35.28 % 
+🌃 Evening                3668 commits        ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+🌙 Night                  1566 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
 ```
 
 
@@ -59,50 +59,50 @@ NOTE: Doesn't track coding at work.
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 5 mins        ████████████░░░░░░░░░░░░░   47.47 % 
-Python                   3 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.05 % 
-Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Markdown                 6 hrs 21 mins       ███████████░░░░░░░░░░░░░░   42.12 % 
+Python                   3 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+TypeScript               1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Other                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Bash                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 58 mins       █████████████████████░░░░   83.60 % 
-VS Code                  1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Claude Code              13 hrs 10 mins      ██████████████████████░░░   87.28 % 
+VS Code                  1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
 
 🐱‍💻 Projects: 
-km24-core                9 hrs 24 mins       ██████████████████████░░░   87.71 % 
-scripts                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-skills                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-km24-prod-db             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-references               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+km24-core                13 hrs 46 mins      ███████████████████████░░   91.26 % 
+scripts                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+skills                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+km24-prod-db             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+references               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 5 mins (94.02%)
+⏱ AI Coding Time: 14 hrs 23 mins (95.33%)
 
-✍️ 8,328 lines written by AI, 32 lines written by hand (99.62% AI-written)
+✍️ 9,594 lines written by AI, 32 lines written by hand (99.67% AI-written)
 
-🔤 7,342,274 Input Tokens, 1,623,276 Output Tokens
+🔤 9,379,936 Input Tokens, 2,035,520 Output Tokens
 
-💵 $287.14 Estimated AI Cost This Week
+💵 $375.20 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 60 AI Prompts
+🧠 32 AI Sessions, 75 AI Prompts
 
-Opus                     8,547 lines         █████████████████████████   100.00 % 
+Opus                     9,813 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.62% of written lines came from AI
-📚 Verbose Prompter — average 3,331 characters per prompt
+🤖 AI-Driven — 99.67% of written lines came from AI
+📚 Verbose Prompter — average 2,794 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 2.41% of changed lines were hand-edited
+🚀 High AI Trust — 2.11% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/08/2026 01:56:25 UTC
+ Last Updated on 29/08/2026 21:09:33 UTC
 <!--END_SECTION:waka-->
 
 </details>
