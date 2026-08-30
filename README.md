@@ -48,10 +48,10 @@ NOTE: Doesn't track coding at work.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3512 commits        ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
-🌆 Daytime                4767 commits        █████████░░░░░░░░░░░░░░░░   35.28 % 
-🌃 Evening                3668 commits        ███████░░░░░░░░░░░░░░░░░░   27.14 % 
-🌙 Night                  1566 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+🌞 Morning                3429 commits        ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+🌆 Daytime                4669 commits        █████████░░░░░░░░░░░░░░░░   35.24 % 
+🌃 Evening                3610 commits        ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+🌙 Night                  1540 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
 ```
 
 
@@ -59,50 +59,50 @@ NOTE: Doesn't track coding at work.
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 hrs 21 mins       ███████████░░░░░░░░░░░░░░   42.12 % 
-Python                   3 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
-TypeScript               1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Other                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Bash                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Markdown                 8 hrs 54 mins       ███████████░░░░░░░░░░░░░░   45.75 % 
+Python                   4 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+TypeScript               1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Other                    1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Bash                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 10 mins      ██████████████████████░░░   87.28 % 
-VS Code                  1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Claude Code              17 hrs 5 mins       ██████████████████████░░░   87.85 % 
+VS Code                  2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
 
 🐱‍💻 Projects: 
-km24-core                13 hrs 46 mins      ███████████████████████░░   91.26 % 
-scripts                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-skills                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-km24-prod-db             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-references               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+km24-core                17 hrs 27 mins      ██████████████████████░░░   89.73 % 
+company-scrapers         40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+scripts                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+skills                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+km24-prod-db             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 23 mins (95.33%)
+⏱ AI Coding Time: 18 hrs 38 mins (95.82%)
 
-✍️ 9,594 lines written by AI, 32 lines written by hand (99.67% AI-written)
+✍️ 11,386 lines written by AI, 46 lines written by hand (99.6% AI-written)
 
-🔤 9,379,936 Input Tokens, 2,035,520 Output Tokens
+🔤 12,247,917 Input Tokens, 2,528,293 Output Tokens
 
-💵 $375.20 Estimated AI Cost This Week
+💵 $471.56 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 75 AI Prompts
+🧠 41 AI Sessions, 101 AI Prompts
 
-Opus                     9,813 lines         █████████████████████████   100.00 % 
+Opus                     11,605 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.67% of written lines came from AI
-📚 Verbose Prompter — average 2,794 characters per prompt
+🤖 AI-Driven — 99.6% of written lines came from AI
+📚 Verbose Prompter — average 6,229 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 2.11% of changed lines were hand-edited
+🚀 High AI Trust — 2.03% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/08/2026 21:09:33 UTC
+ Last Updated on 30/08/2026 21:31:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
