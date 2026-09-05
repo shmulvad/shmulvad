@@ -3,7 +3,7 @@
 </h2>
 
 #### About Me
-- 👨‍💻 I am a software developer at Bunker Holding
+- 👨‍💻 I am a senior software developer at Nordic Energy Trading
 - 🤖 I have a background in data science and AI as well
 - 📚 Master of Computing from [NUS], BSc from [@diku-dk]
 - 👨‍🏫 I enjoy sharing my knowledge with others
