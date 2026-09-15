@@ -43,7 +43,7 @@ NOTE: Doesn't track coding at work.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C757%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2042%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -59,50 +59,50 @@ NOTE: Doesn't track coding at work.
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 10 mins       ████████████████░░░░░░░░░   63.98 % 
-Other                    36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Python                   21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Markdown                 1 hr 47 mins        ██████████████░░░░░░░░░░░   56.17 % 
+Other                    46 mins             ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+Python                   21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Text                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 6 mins        ███████████████████████░░   91.30 % 
-Sublime Text             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Claude Code              2 hrs 53 mins       ███████████████████████░░   90.71 % 
+Sublime Text             11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 🐱‍💻 Projects: 
-km24-core                1 hr 46 mins        █████████████░░░░░░░░░░░░   52.01 % 
-shmulvad                 31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-dotfiles                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-faktanet                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Unknown Project          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+km24-core                1 hr 48 mins        ██████████████░░░░░░░░░░░   56.63 % 
+shmulvad                 31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+faktanet                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Unknown Project          11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Projects                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 23 mins (99.68%)
+⏱ AI Coding Time: 3 hrs 10 mins (99.66%)
 
-✍️ 971 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 837 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,060,353 Input Tokens, 271,899 Output Tokens
+🔤 1,014,059 Input Tokens, 233,992 Output Tokens
 
-💵 $56.34 Estimated AI Cost This Week
+💵 $51.12 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 26 AI Prompts
+🧠 8 AI Sessions, 24 AI Prompts
 
-Opus                     976 lines           █████████████████████████   100.00 % 
+Opus                     842 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,138 characters per prompt
+📚 Verbose Prompter — average 2,310 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/09/2026 22:02:11 UTC
+ Last Updated on 15/09/2026 21:44:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
