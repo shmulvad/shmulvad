@@ -45,63 +45,8 @@ NOTE: Doesn't track coding at work.
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-72%20hrs%2021%20mins-blue?style=flat)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                2458 commits        ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-🌆 Daytime                3602 commits        ████████░░░░░░░░░░░░░░░░░   32.86 % 
-🌃 Evening                3347 commits        ████████░░░░░░░░░░░░░░░░░   30.53 % 
-🌙 Night                  1555 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 1 hr 47 mins        █████████████░░░░░░░░░░░░   50.07 % 
-Other                    1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   31.50 % 
-Python                   26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-
-🔥 Editors: 
-Claude Code              3 hrs 8 mins        ██████████████████████░░░   88.09 % 
-VS Code                  25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-
-🐱‍💻 Projects: 
-km24-core                2 hrs 27 mins       █████████████████░░░░░░░░   68.92 % 
-shmulvad                 31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Unknown Project          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-kaas-mulvad              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-skills                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 14 mins (90.9%)
-
-✍️ 866 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 1,027,501 Input Tokens, 226,287 Output Tokens
-
-💵 $53.85 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 22 AI Prompts
-
-Opus                     873 lines           █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,515 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.46% of changed lines were hand-edited
-```
-
-
- Last Updated on 16/09/2026 21:39:52 UTC
+ Last Updated on 17/09/2026 21:42:42 UTC
 <!--END_SECTION:waka-->
 
 </details>
