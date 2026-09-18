@@ -45,8 +45,60 @@ NOTE: Doesn't track coding at work.
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-72%20hrs%2021%20mins-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 17/09/2026 21:42:42 UTC
+```text
+🌞 Morning                2458 commits        ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+🌆 Daytime                3602 commits        ████████░░░░░░░░░░░░░░░░░   32.86 % 
+🌃 Evening                3347 commits        ████████░░░░░░░░░░░░░░░░░   30.53 % 
+🌙 Night                  1555 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Bash                     34 mins             ███████████░░░░░░░░░░░░░░   44.44 % 
+Markdown                 18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+Other                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+YAML                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Python                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+
+🔥 Editors: 
+Claude Code              58 mins             ███████████████████░░░░░░   75.15 % 
+VS Code                  19 mins             ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
+
+🐱‍💻 Projects: 
+km24-core                50 mins             ████████████████░░░░░░░░░   65.05 % 
+Unknown Project          18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+kaas-mulvad              8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 58 mins (75.64%)
+
+✍️ 29 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 170,404 Input Tokens, 56,897 Output Tokens
+
+💵 $8.14 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 3 AI Prompts
+
+Opus                     31 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 143 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 11.43% of changed lines were hand-edited
+```
+
+
+ Last Updated on 18/09/2026 21:14:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
