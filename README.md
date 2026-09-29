@@ -48,10 +48,10 @@ NOTE: Doesn't track coding at work.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2592 commits        █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
-🌆 Daytime                3838 commits        ████████░░░░░░░░░░░░░░░░░   32.00 % 
-🌃 Evening                3779 commits        ████████░░░░░░░░░░░░░░░░░   31.51 % 
-🌙 Night                  1785 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+🌞 Morning                2659 commits        █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+🌆 Daytime                3956 commits        ████████░░░░░░░░░░░░░░░░░   31.62 % 
+🌃 Evening                3995 commits        ████████░░░░░░░░░░░░░░░░░   31.93 % 
+🌙 Night                  1900 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
 ```
 
 
@@ -59,49 +59,23 @@ NOTE: Doesn't track coding at work.
 
 ```text
 💬 Programming Languages: 
-Markdown                 55 mins             ██████████████████░░░░░░░   70.97 % 
-Text                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Other                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Other                    0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              57 mins             ██████████████████░░░░░░░   73.66 % 
-Sublime Text             13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-VS Code                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Claude Code              0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-skills                   33 mins             ███████████░░░░░░░░░░░░░░   43.14 % 
-faktanet                 23 mins             ████████░░░░░░░░░░░░░░░░░   30.09 % 
-Unknown Project          13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-shmulvad                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-skills-main              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 9 mins (88.78%)
-
-✍️ 655 lines written by AI, 5 lines written by hand (99.24% AI-written)
-
-🔤 364,546 Input Tokens, 80,934 Output Tokens
-
-💵 $10.94 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 4 AI Prompts
-
-Opus                     655 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.24% of written lines came from AI
-📚 Verbose Prompter — average 3,417 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.91% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 28/09/2026 23:31:57 UTC
+ Last Updated on 29/09/2026 22:37:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
