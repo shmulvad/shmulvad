@@ -48,10 +48,10 @@ NOTE: Doesn't track coding at work.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2902 commits        █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-🌆 Daytime                4263 commits        ████████░░░░░░░░░░░░░░░░░   31.31 % 
-🌃 Evening                4383 commits        ████████░░░░░░░░░░░░░░░░░   32.19 % 
-🌙 Night                  2069 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+🌞 Morning                2975 commits        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+🌆 Daytime                4385 commits        ████████░░░░░░░░░░░░░░░░░   30.97 % 
+🌃 Evening                4612 commits        ████████░░░░░░░░░░░░░░░░░   32.57 % 
+🌙 Night                  2189 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
 ```
 
 
@@ -59,47 +59,46 @@ NOTE: Doesn't track coding at work.
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 6 mins        ████████████░░░░░░░░░░░░░   49.36 % 
-Python                   2 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.70 % 
-SSH Config               48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Other                    31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Markdown                 4 hrs               ██████████████░░░░░░░░░░░   55.19 % 
+Python                   2 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   30.60 % 
+YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 1 min         ████████████████████████░   96.33 % 
-VS Code                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Claude Code              6 hrs 57 mins       ████████████████████████░   97.13 % 
+VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🐱‍💻 Projects: 
-km24-core                7 hrs 3 mins        █████████████████████░░░░   84.82 % 
-table-notifier           1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-alerter                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+km24-core                5 hrs 58 mins       █████████████████████░░░░   83.44 % 
+table-notifier           1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 11 mins (98.41%)
+⏱ AI Coding Time: 7 hrs 2 mins (98.16%)
 
-✍️ 2,712 lines written by AI, 1 lines written by hand (99.96% AI-written)
+✍️ 2,475 lines written by AI, 1 lines written by hand (99.96% AI-written)
 
-🔤 3,703,953 Input Tokens, 688,053 Output Tokens
+🔤 3,337,576 Input Tokens, 601,930 Output Tokens
 
-💵 $159.46 Estimated AI Cost This Week
+💵 $152.10 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 70 AI Prompts
+🧠 14 AI Sessions, 60 AI Prompts
 
-Opus                     2,720 lines         █████████████████████████   100.00 % 
+Opus                     2,483 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 4,582 characters per prompt
+📚 Verbose Prompter — average 4,959 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.07% of changed lines were hand-edited
+🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/10/2026 21:56:15 UTC
+ Last Updated on 23/10/2026 21:39:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
