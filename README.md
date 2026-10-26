@@ -48,10 +48,10 @@ NOTE: Doesn't track coding at work.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3066 commits        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-🌆 Daytime                4544 commits        ████████░░░░░░░░░░░░░░░░░   30.69 % 
-🌃 Evening                4882 commits        ████████░░░░░░░░░░░░░░░░░   32.98 % 
-🌙 Night                  2312 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+🌞 Morning                3167 commits        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+🌆 Daytime                4728 commits        ████████░░░░░░░░░░░░░░░░░   30.54 % 
+🌃 Evening                5142 commits        ████████░░░░░░░░░░░░░░░░░   33.22 % 
+🌙 Night                  2442 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
 ```
 
 
@@ -59,46 +59,23 @@ NOTE: Doesn't track coding at work.
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 27 mins        ███████████░░░░░░░░░░░░░░   42.81 % 
-Python                   1 hr                ███████░░░░░░░░░░░░░░░░░░   29.62 % 
-YAML                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Other                    5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 13 mins       ████████████████████████░   96.86 % 
-VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Claude Code              5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-km24-core                2 hrs 8 mins        ████████████████░░░░░░░░░   64.31 % 
-table-notifier           1 hr 11 mins        █████████░░░░░░░░░░░░░░░░   35.69 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 12 mins (96.29%)
-
-✍️ 1,654 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 1,634,351 Input Tokens, 275,148 Output Tokens
-
-💵 $106.97 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 32 AI Prompts
-
-Opus                     1,659 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,154 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 25/10/2026 21:13:31 UTC
+ Last Updated on 26/10/2026 22:55:23 UTC
 <!--END_SECTION:waka-->
 
 </details>
